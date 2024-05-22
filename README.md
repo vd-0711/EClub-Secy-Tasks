@@ -44,7 +44,18 @@ To design a security system for an Arduino project that securely stores and veri
 
 ## Task 5 : I too See!
 
-To code the I2C protocol in Verilog
+To code the I2C protocol in Verilog. << Not completed >> In this code, there is a clock, start and an scl and sda line. When the start bit is encountered, the SDA line switches from high to low before the SCL line. This can be visualised in gtkwake software.
+
+#### ***How to Run?***
+- Download both the files - *i2c_master.v* and *tb_i2c_master.v*
+- Download and set up icarus verilog from [here](https://bleyer.org/icarus/)
+- Run the following commands in terminal
+`iverilog -o i2c_master_tb i2c_master.v tb_i2c_master.v`
+`vvp i2c_master_tb`
+- Open gtkwave software using `gtkwave`
+- file > open new tab > tb_i2c_master > (SST) select it
+- Select all the signal and click append
+- Voila! you should be able to see the required wave.
 
 ----------------------------------------
 

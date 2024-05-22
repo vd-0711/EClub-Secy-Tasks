@@ -9,6 +9,12 @@ Use the link and simulate. Move the chip in different directions and the output 
 
 ----------------------------------------
 
+## Task 2 : FasPlate?
+
+To create a toll collection system which detects Licence Plates on the vehicles through already installed security cameras and then cross references them against the vehicle registration database to fetch customer details to charge them accordingly and then open the toll barrier. 
+
+----------------------------------------
+
 ## Task 3 : Cardio Wave
 
 To analyse the data given in the csv file and find Sam's Heart Rate. PeakUtils library is used to detect peaks in 1-D data. Then the time interval b/w two consecutive peaks can be used to find the heart rate in beats per minute
@@ -32,6 +38,11 @@ To design a security system for an Arduino project that securely stores and veri
 
 [Tinkercad link to see the code in action](https://www.tinkercad.com/things/8CJzbL1yIuA-cryptarduino?sharecode=HWKwpbTsVtJtUc4l5af10i-77yCqDrHh7nK-xDP8NhU)
 
+----------------------------------------
+
+## Task 5 : I too See!
+
+To code the I2C protocol in Verilog
 
 ----------------------------------------
 
@@ -40,3 +51,9 @@ To design a security system for an Arduino project that securely stores and veri
 Instagram Post Ideas for introduction of the new secretaries of Eclub for the 2024-25 tenure
 
 [Find the Canva link here](https://www.canva.com/design/DAGFfU4QuNY/JbuHTf5NwPrjZ9teiwhXpQ/edit?utm_content=DAGFfU4QuNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+----------------------------------------
+
+## Bonus : Jumping Block
+
+Make your own version of Google’s authentic dinosaur game that can run on a MicroBit Microcontroller.

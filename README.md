@@ -1,3 +1,5 @@
+This repo contains all the submissions for Electronics Club recruitment tasks.
+
 ## Task 1 : Microbit Excellence 
 
 Making the leds on the micro:bit "flow" as the board is moved. The accelerometer of micro:bit is used to detect the tilt (x, y, z acceleration). The leds on the titled side brighten. In this model I have implemented cases for 8 directions. Additionally, on shaking a random display of leds is shown. Python code with comments can be downloaded from the files here. Note the tinkercad code does not have comments
